@@ -1,5 +1,5 @@
 package Calculator;
-import  java.lang.Integer;
+
 import java.util.Scanner;
 
 class Calculator {
